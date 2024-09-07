@@ -1,0 +1,6 @@
+2024-09-07 10:15:32,123 - INFO - Client 192.168.1.100 connected to server.
+2024-09-07 10:16:45,234 - WARNING - Failed login attempt from 10.0.0.5.
+2024-09-07 10:18:00,345 - ERROR - Timeout from 172.16.0.7.
+2024-09-07 10:20:12,456 - INFO - New connection from 192.168.1.105.
+2024-09-07 10:21:10,567 - INFO - Client 192.168.1.100 disconnected.
+2024-09-07 10:25:43,678 - ERROR - Unauthorized access attempt from 203.0.113.25.
